@@ -1,4 +1,5 @@
 <?php 
+  $currentStyle = "Styles/style.css";
   require_once("block/header.php");
 ?>
 
@@ -19,6 +20,7 @@
                     src="./Styles/Images/HomeGreyVers.png"
                     alt="Icone Maison"
                   />
+
                   <p style="color: rgb(0, 0, 0)">Home</p>
                 </a>
               </li>

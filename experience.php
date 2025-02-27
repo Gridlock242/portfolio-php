@@ -1,4 +1,5 @@
 <?php 
+  $currentStyle = "Styles/experience.css";
   require_once("block/header.php");
 ?>
 

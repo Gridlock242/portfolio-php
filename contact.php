@@ -1,4 +1,5 @@
 <?php 
+  $currentStyle = "Styles/contact.css";
   require_once("block/header.php");
 ?>
 
